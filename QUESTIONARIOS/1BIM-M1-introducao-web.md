@@ -57,13 +57,28 @@ https://developer.mozilla.org
 2. Abra as **Ferramentas de Desenvolvedor**.
 
 3. Inspecione a página e responda:
+3. Inspecione a página e responda:
 
 * Qual é a **URL completa da página acessada**?
-* Qual protocolo está sendo utilizado (**HTTP ou HTTPS**)?
+
+https://developer.mozilla.org/
+
+* Qual protocolo está sendo utilizado (**HTTP ou HTTPS**)?  
+
+HTTPS
+
 * Encontre um elemento HTML da página (por exemplo `<h1>`, `<p>` ou `<div>`).
+
+Elemento encontrado: `<h1>`
+
 * Copie um pequeno trecho do HTML encontrado.
 
+<h1>Resources for Developers, by Developers</h1>
+
+
 Por fim, explique brevemente **o que você observou ao analisar a estrutura da página**.
+
+Eu observei que a página é formada por várias partes em HTML, como títulos, textos e divisões. Tudo isso junto forma a estrutura do site que a gente vê.
 
 ---
 
