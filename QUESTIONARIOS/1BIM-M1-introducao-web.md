@@ -57,7 +57,6 @@ https://developer.mozilla.org
 2. Abra as **Ferramentas de Desenvolvedor**.
 
 3. Inspecione a página e responda:
-3. Inspecione a página e responda:
 
 * Qual é a **URL completa da página acessada**?
 
@@ -73,10 +72,9 @@ Elemento encontrado: `<h1>`
 
 * Copie um pequeno trecho do HTML encontrado.
 
-<h1>Resources for Developers, by Developers</h1>
+`<h1>Resources for Developers, by Developers</h1>`
 
-
-Por fim, explique brevemente **o que você observou ao analisar a estrutura da página**.
+* Por fim, explique brevemente **o que você observou ao analisar a estrutura da página**.
 
 Eu observei que a página é formada por várias partes em HTML, como títulos, textos e divisões. Tudo isso junto forma a estrutura do site que a gente vê.
 
@@ -89,6 +87,13 @@ Os padrões da Web permitem que sistemas diferentes consigam se comunicar na int
 Explique:
 
 * Por que padrões como **HTTP, HTML e DNS** são importantes.
-* Como esses padrões ajudam a garantir que **diferentes navegadores e servidores funcionem corretamente**.
 
-Apresente exemplos para apoiar sua explicação.
+Eles são importantes porque criam regras que todos seguem. Isso faz com que a internet funcione corretamente.
+
+* Como esses padrões ajudam a garantir que **diferentes navegadores e servidores funcionem corretamente.
+
+Eles fazem com que qualquer navegador consiga abrir qualquer site, porque todos usam as mesmas regras.
+
+* Apresente exemplos para apoiar sua explicação.
+
+Por exemplo, um site pode ser aberto no Chrome ou no Firefox sem problema. Outro exemplo é que você pode digitar o nome de um site em vez de números, porque o DNS faz essa conversão.
